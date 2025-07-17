@@ -19,7 +19,7 @@ $(function () {
 
     countries.forEach((country) => {
       const countryCard = `
-        <div class="country-card mb-4 p-4 rounded-sm shadow bg-white">
+        <div class="max-w-sm country-card mb-4 p-4 rounded-sm shadow bg-white">
           <img src="${country.flag}" alt="${country.name}">
           <h2 class="text-center font-black text-lg my-4">${country.name}</h2>
           <p><b>Population:</b> ${country.population}</p>

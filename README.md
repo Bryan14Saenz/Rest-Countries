@@ -82,6 +82,5 @@ El proyecto fue desarrollado usando Tailwind CSS para el diseño, jQuery para ma
 
 ## 🌍 Demo en línea
 
-🟢 [restcountriesb14s.netlify.app](https://restcountriesb14s.netlify.app)
+🟢 [restcountries.netlify.app](https://restcountries.netlify.app)
 
-¿Te gustaría que la vista individual tenga un diseño tipo modal o una página nueva? 🌐
